@@ -8,6 +8,31 @@ export default{
         { ime: 'fora', bodovi: 5 },
         { ime: 'slap', bodovi: 5 }, 
       ],
+
+
+     
+      
+
+      teamOne:{
+        igraci:[],
+        bodovi:0
+      },
+      teamTwo:{
+        igraci:[],
+        bodovi:0
+      },
+      teamThree:{
+        igraci:[],
+        bodovi:0
+      },
+      teamFour:{
+        igraci:[],
+        bodovi:0
+      },
+      teamFive:{
+        igraci:[],
+        bodovi:0
+      },
     
     
     }

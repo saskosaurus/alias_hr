@@ -14,7 +14,12 @@
 
 <style lang="scss">
 
-
+@media only screen and (max-width: 600px) {
+  #nav{
+    position:absolute;
+    bottom: 0;
+  }
+}
 
 
 #app {
