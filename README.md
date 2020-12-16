@@ -1,4 +1,4 @@
-# indigo
+# alias
 
 ## Project setup
 ```
